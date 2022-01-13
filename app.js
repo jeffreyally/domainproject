@@ -8,9 +8,11 @@ for (i = 0; i < awesomethings.length; i++) {
       for (i3 = 0; i3 < urlextensions.length; i3++) {
         console.log(awesomethings[i] + IsandBe[i1] + WhatIBelieveTheKidsAreSayingTheseDays[i2] + urlextensions[i3]
           )
+
         }
+
       }
 
     }
 
-  }
+}
