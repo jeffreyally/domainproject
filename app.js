@@ -16,4 +16,8 @@ for (i = 0; i < awesomethings.length; i++) {
 
     }
 
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> 7fbcc2466b92c721737dabeb5916dd39faef52b0
